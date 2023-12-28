@@ -5,4 +5,6 @@ This is a visual components library, each folder is a different component that y
 
 # Components 
 
-## [Expanding Cards](https://github.com/SamuelFriasNieto/Components/tree/main/ExpandingCards)   ### [Preview](https://htmlpreview.github.io/?https://github.com/SamuelFriasNieto/Components/blob/main/ExpandingCards/index.html)
+## [Expanding Cards](https://github.com/SamuelFriasNieto/Components/tree/main/ExpandingCards)  
+
+[Preview](https://htmlpreview.github.io/?https://github.com/SamuelFriasNieto/Components/blob/main/ExpandingCards/index.html)
